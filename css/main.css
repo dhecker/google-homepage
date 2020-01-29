@@ -4,6 +4,7 @@ body, td, a, p, .h {
     text-decoration: none;
     color: #222;
     font-size: small;
+    -webkit-appearance: none;
   }
 
   li {
@@ -85,9 +86,9 @@ body, td, a, p, .h {
     margin-left: 15px;
     }
 
-}
   #logo {
     margin: 200 auto 20 auto;
+    padding-top: 0;
   }
 
   .left-nav a {
